@@ -12,3 +12,4 @@
 
 #### Certificate
 ![cka-certified-kubernetes-administrator (2)](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
+<!-- image size: 150px,150px ->
