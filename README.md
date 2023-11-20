@@ -14,4 +14,4 @@
 - Playground: ~개설예정~
 
 #### Certificate
-![cka-certified-kubernetes-administrator](https://github.com/myeong-han/myeong-han/assets/31746222/8ec3d587-4f8b-40a9-bd7f-ab84539a9736)
+![cka-certified-kubernetes-administrator (1)](https://github.com/myeong-han/myeong-han/assets/31746222/305ca9ad-059d-4dce-846f-309806d48ebe)
