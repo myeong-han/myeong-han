@@ -10,6 +10,8 @@
 #### Links
 [Mail](mailto:ames11118@gmail.com) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [Playground]()
 
+---
+
 #### [Badges](https://www.credly.com/users/myeonghan-kim.f0d8163e/badges)
 ![cka-certified-kubernetes-administrator (2)](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
 <!-- image size: 150px,150px ->
