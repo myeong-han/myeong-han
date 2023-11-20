@@ -11,4 +11,4 @@
 [Github](https://github.com/myeong-han/myeong-han/) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [Playground]()
 
 #### Certificate
-![cka-certified-kubernetes-administrator (1)](https://github.com/myeong-han/myeong-han/assets/31746222/305ca9ad-059d-4dce-846f-309806d48ebe)
+![cka-certified-kubernetes-administrator (2)](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
