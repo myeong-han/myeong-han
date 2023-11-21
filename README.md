@@ -1,5 +1,5 @@
 #### ✍🏻 Comments
-안녕하세요, _Generalist_를 지향하는 개발자 [@myeong-han](https://github.com/myeong-han/) 입니다.
+안녕하세요, **Generalist**를 지향하는 개발자 [@myeong-han](https://github.com/myeong-han/) 입니다.
 
 다양한 Language, Framework, Opensource, Infrastructure를 활용하여 유용한 서비스 개발이나 재미난 시도를 하려고 합니다.   
 ~사진 촬영, 영상 제작, 그리고 Blender나 게임엔진에도 관심이 많습니다.~
