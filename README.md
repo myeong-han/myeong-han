@@ -10,7 +10,7 @@
 ---
 
 #### 🔗 Links
-[Mail](mailto:ames11118@gmail.com) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [Playground]()
+[Mail](mailto:ames11118@gmail.com) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [instagram](https://www.instagram.com/mjonnir/) - [Playground]()
 
 ---
 
