@@ -1,11 +1,11 @@
 #### ✍🏻 Comments
-안녕하세요, **Generalist**를 지향하는 개발자 [@myeong-han](https://github.com/myeong-han/) 입니다.
+Hello, I am [@myeong-han](https://github.com/myeong-han/), a **generalist-oriented** developer.
 
-다양한 Language, Framework, Opensource, Infrastructure를 활용하여 유용한 서비스 개발이나 재미난 시도를 하려고 합니다.   
-~TMI: 사진 촬영, 영상 제작, 그리고 Blender나 게임엔진에도 관심이 많습니다.~
+I plan to develop useful services or make fun attempts by utilizing various languages, frameworks, open sources, and infrastructure.
+~TMI: I am also interested in photography, video production, and Blender and game engines.~
 
-국내 혹은 해외 에서 열의를 다하여 수강생들을 가르치시는 선생님, 온라인으로 좋은 강의를 만들어주시는 강사님들 모두 진심으로 존경합니다.   
-방문 해주셔서 감사합니다, 행복한 하루 되시길 바랍니다.
+I sincerely respect all the teachers who teach their students with great enthusiasm at home or abroad, as well as the instructors who create good lectures online.
+Thank you for visiting, I hope you have a nice day.
 
 ---
 
