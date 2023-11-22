@@ -16,6 +16,5 @@ Thank you for visiting, I hope you have a nice day.
 ---
 
 #### 🎖️ [Badges](https://www.credly.com/users/myeonghan-kim.f0d8163e/badges)
-![cka-certified-kubernetes-administrator (2)](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
-![cka-certified-kubernetes-administrator (2)](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
+![cka-certified-kubernetes-administrator](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1)
 <!-- image size: 150px,150px ->
