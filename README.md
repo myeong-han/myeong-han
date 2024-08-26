@@ -11,7 +11,7 @@ Thank you for visiting, I hope you have a nice day.
 ---
 
 #### 🔗 Links
-[Mail](mailto:ames11118@gmail.com) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [Instagram](https://www.instagram.com/mjonnir/) - [Playground](https://github.com/myeong-han/playgrounds-fredric/tree/env/k3s_istio)
+[Mail](mailto:ames11118@gmail.com) - [Notion](https://nathan18.notion.site/view-dev-shared-b1144dbe8ac543a1947e803a69de99eb) - [Blog](https://myeong-han.github.io/) - [Linkedin](https://www.linkedin.com/in/warren8/) - [Instagram](https://www.instagram.com/mjonnir/) - [Playground](https://github.com/myeong-han/playgrounds-fredric/tree/env/k3s_istio)
 
 ---
 
