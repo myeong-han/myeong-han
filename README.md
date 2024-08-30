@@ -10,11 +10,6 @@ Thank you for visiting, I hope you have a nice day.
 
 ---
 
-#### 🔗 Links
-[Mail](mailto:ames11118@gmail.com) - [Notion](https://nathan18.notion.site/view-dev-shared-b1144dbe8ac543a1947e803a69de99eb) - [Blog](https://myeong-han.github.io/) - [Playground](https://github.com/myeong-han/playgrounds-fredric/)
-
----
-
 #### 🎖️ [Badges](https://www.credly.com/users/myeonghan-kim.f0d8163e/badges)
 <!-- [![cka-certified-kubernetes-administrator](https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1 "CKA, ~2026-11-04")](https://www.credly.com/badges/f3a1b3f0-12c5-4f9a-ab6f-82519989700b) -->
 [<img src="https://github.com/myeong-han/myeong-han/assets/31746222/9ac45ba1-aeb1-452e-9bf9-91445fad04e1" alt="cka-certified-kubernetes-administrator" width="15%" height="15%">](https://www.credly.com/badges/f3a1b3f0-12c5-4f9a-ab6f-82519989700b)
