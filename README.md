@@ -16,5 +16,5 @@ Thank you for visiting, I hope you have a nice day.
 <img src="https://github.com/user-attachments/assets/861dd114-8536-45e7-b3e1-d0d2973c92da" alt="sql-developer" width="15%" height="15%">
 <img src="https://github.com/user-attachments/assets/b42888de-a035-4cd4-ab92-ab8417e36928" alt="certified-information-process" width="15%" height="15%">
 <img src="https://github.com/user-attachments/assets/b5e2a8fa-b098-4fab-8f6c-6e6ed92b40ab" alt="certified-multimedia-contents-produce-specialist" width="15%" height="15%">
-<img src="https://github.com/user-attachments/assets/13259a68-5975-4030-b79c-fe251fe663e0" alt="certified-ceramic-crafts-accociate" width="15%" height="15%">
+<!-- <img src="https://github.com/user-attachments/assets/13259a68-5975-4030-b79c-fe251fe663e0" alt="certified-ceramic-crafts-accociate" width="15%" height="15%"> -->
 <!-- image size: 15%,15% -->
